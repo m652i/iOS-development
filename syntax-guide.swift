@@ -1,8 +1,10 @@
 /*
 
-a guide for self, feel free to take a look! 
-If you are new to Swift this might help a bit!
-covers most basic syntax from var to class 
+a guide for myself to reference to just in case if I forget stuff. 
+Feel free to take a look! 
+
+If you are new to Swift this might help a bit! 
+Covers most basic syntax from var to class 
 
 */
 
