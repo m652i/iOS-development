@@ -1,3 +1,12 @@
+/*
+
+a guide for self, feel free to take a look! 
+If you are new to Swift this might help a bit!
+covers most basic syntax from var to class 
+
+*/
+
+
 import UIKit
 
 var str = "Hello, playground"
@@ -204,3 +213,5 @@ f1.printFrac()
 f1.toDouble()
 
 var f2 = Fraction()
+
+
