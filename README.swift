@@ -4,7 +4,7 @@ iOS, swift, practices
 Practices to learn how to develope iOS apps on Xcode!
 
 I made a Swift syntax guide :
-
+Looks better in the actually swift file.
 
 =====================================================
 
